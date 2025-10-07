@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": "crm",
+    "name": "CRM Interno",
+    "version": "1.0.0",
+    "description": "App interno para gestão de clientes e vendas.",
+    "icon": "https://raw.githubusercontent.com/seuusuario/meus-apps-internos/main/icons/crm.png",
+    "apk": "https://github.com/seuusuario/meus-apps-internos/releases/download/v1.0.0/crm.apk"
+  },
+  {
+    "id": "estoque",
+    "name": "Controle de Estoque",
+    "version": "1.0.0",
+    "description": "Controle de inventário e entradas/saídas de produtos.",
+    "icon": "https://raw.githubusercontent.com/seuusuario/meus-apps-internos/main/icons/estoque.png",
+    "apk": "https://github.com/seuusuario/meus-apps-internos/releases/download/v1.0.0/estoque.apk"
+  }
+]
