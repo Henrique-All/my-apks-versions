@@ -12,7 +12,6 @@
     "developerWebsite": "https://www.grupogsa.com.br/",
     "privacyPolicy": "https://www.grupogsa.com.br/responsabilidade",
     "thumb": "https://n4news.com.br/wp-content/uploads/2024/05/mercado-696x464.jpg",
-    "packageName": "com.gsa.gvapp",
-    "tags": ["Gestão de metas", "Vendedores", "Vendas"]
+    "packageName": "com.gsa.gvapp"
   }
 ]
