@@ -12,6 +12,15 @@
     "developerWebsite": "https://www.grupogsa.com.br/",
     "privacyPolicy": "https://www.grupogsa.com.br/responsabilidade",
     "thumb": "https://n4news.com.br/wp-content/uploads/2024/05/mercado-696x464.jpg",
-    "packageName": "com.gsa.gvapp"
+    "packageName": "com.gsa.gvapp",
+    "screenshots": [
+      "https://i.imgur.com/vueFlqS.png",
+      "https://i.imgur.com/mwPKtI1.png",
+      "https://i.imgur.com/ILjlOBF.png",
+      "https://i.imgur.com/iOh8s3l.png",
+      "https://i.imgur.com/3fzSDd4.png",
+      "https://i.imgur.com/UneymV2.png",
+      "https://i.imgur.com/SN4hrrv.png"
+    ]
   }
 ]
