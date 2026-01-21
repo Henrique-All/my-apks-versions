@@ -2,7 +2,7 @@
   {
     "id": "gv",
     "name": "Gestão Vendedor",
-    "version": "1.0.2",
+    "version": "1.0",
     "description": "Aplicativo de gestão e controle de metas, vendas e controle de vendas para vendedores do Grupo GSA Alimentos.",
     "icon": "https://i.imgur.com/FnMAooN.png",
     "apk": "https://github.com/Henrique-All/my-apks-versions/releases/download/v1.0.1/Gmetas-1.0.apk",
