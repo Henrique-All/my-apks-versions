@@ -12,6 +12,7 @@
     "privacyPolicy": "https://www.grupogsa.com.br/responsabilidade",
     "thumb": "https://n4news.com.br/wp-content/uploads/2024/05/mercado-696x464.jpg",
     "packageName": "com.gvapp",
+    "scheme": "gvapp",
     "type": "sell",
     "screenshots": [
       "https://i.imgur.com/vueFlqS.png",
