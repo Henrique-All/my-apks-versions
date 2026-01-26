@@ -1,9 +1,9 @@
 [
   {
     "id": "gv",
-    "name": "Gestão Vendedor",
-    "version": "2.0",
-    "description": "Aplicativo de gestão e controle de metas, vendas e controle de vendas para vendedores do Grupo GSA Alimentos.",
+    "name": "Gmetas",
+    "version": "1.2",
+    "description": "Aplicativo de gestão é visualização de metas.",
     "icon": "https://i.imgur.com/FnMAooN.png",
     "apk": "https://github.com/Henrique-All/my-apks-versions/releases/download/v1.0.1/Gmetas-1.0.apk",
     "size": "71 MB",
@@ -11,45 +11,9 @@
     "developerWebsite": "https://www.grupogsa.com.br/",
     "privacyPolicy": "https://www.grupogsa.com.br/responsabilidade",
     "thumb": "https://n4news.com.br/wp-content/uploads/2024/05/mercado-696x464.jpg",
-    "packageName": "com.gvapp",
-    "scheme": "gvapp",
+    "packageName": "com.gmetas",
+    "scheme": "gmetas",
     "type": "sell",
-    "screenshots": [
-      "https://i.imgur.com/vueFlqS.png",
-      "https://i.imgur.com/mwPKtI1.png",
-      "https://i.imgur.com/ILjlOBF.png",
-      "https://i.imgur.com/iOh8s3l.png",
-      "https://i.imgur.com/3fzSDd4.png",
-      "https://i.imgur.com/UneymV2.png",
-      "https://i.imgur.com/SN4hrrv.png"
-    ],
     "tags": ["vendas", "metas", "controle", "gestão", "vendedor", "gsa"]
   },
 
-  {
-    "id": "mk",
-    "name": "Gestão MKT",
-    "version": "1.0.2",
-    "description": "Aplicativo de gestão e controle de metas, vendas e controle de vendas para vendedores do Grupo GSA Alimentos.",
-    "icon": "https://i.imgur.com/FnMAooN.png",
-    "apk": "https://github.com/Henrique-All/my-apks-versions/releases/download/v1.0.1/application-04497f4c-50ce-4a4e-86f2-9bb5671bab4d.apk",
-    "size": "135 MB",
-    "packageName": "com.gsa.gvapp",
-    "developer": "GSA Alimentos",
-    "developerWebsite": "https://www.grupogsa.com.br/",
-    "privacyPolicy": "https://www.grupogsa.com.br/responsabilidade",
-    "thumb": "https://n4news.com.br/wp-content/uploads/2024/05/mercado-696x464.jpg",
-    "packageName": "com.gsa.gvapp",
-    "type": "mkt",
-    "screenshots": [
-      "https://i.imgur.com/vueFlqS.png",
-      "https://i.imgur.com/mwPKtI1.png",
-      "https://i.imgur.com/ILjlOBF.png",
-      "https://i.imgur.com/iOh8s3l.png",
-      "https://i.imgur.com/3fzSDd4.png",
-      "https://i.imgur.com/UneymV2.png",
-      "https://i.imgur.com/SN4hrrv.png"
-    ],
-    "tags": ["vendas", "metas", "controle", "gestão", "vendedor", "gsa"]
-  }
-]
